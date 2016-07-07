@@ -1,6 +1,8 @@
 # jQuery-Date
 An extended Date Object that uses jQuery for name spacing. Has all the methods of a regular Date Object, plus lots more!!!
 
+#### Quick Link to Raw File -> [jQuery.date.min.js](https://cdn.rawgit.com/JDMcKinstry/jQuery-Date/master/jQuery.date.min.js)
+
 ## Added Methods
 	$.date('addYears')			Accepts Positive and Negative Integers
 	$.date('addMonths')			Accepts Positive and Negative Integers
