@@ -90,7 +90,6 @@ Pretty |  |
 'pretty-f' | 'g:iA'
 
 ---
-===
 ---
 
 ### Examples
